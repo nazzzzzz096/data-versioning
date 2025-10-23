@@ -12,3 +12,6 @@
     ( it says that data in data folder is responsible for versioning)
 
 9. then "dvc commit" and "dvc push"
+10.do a git add-commit- and git push for first version of data
+11. now we add new row in into mycode.py to append a new row and check "dvc status"
+12. now we do "dvc commit" and "dvc push" (it create new files with updated row and a new id also creted for it)
