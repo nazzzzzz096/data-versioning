@@ -11,3 +11,4 @@
 8.rerun "dvc add data/"it created data.dvc which has the id about dvc and git communication)
     ( it says that data in data folder is responsible for versioning)
 
+9. then "dvc commit" and "dvc push"
