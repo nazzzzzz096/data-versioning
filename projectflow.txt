@@ -15,3 +15,5 @@
 10.do a git add-commit- and git push for first version of data
 11. now we add new row in into mycode.py to append a new row and check "dvc status"
 12. now we do "dvc commit" and "dvc push" (it create new files with updated row and a new id also creted for it)
+13.add new row in csv and doing git add-commit-push 
+14. repeat 10-12 for v3 of data 
